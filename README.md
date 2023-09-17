@@ -14,13 +14,13 @@ Before you begin, ensure you have the following requirements in place:
 1. Clone this repository to your local machine or server.
 
    ```bash
-   git clone https://github.com/yourusername/your-contact-form.git
+   git clone https://github.com/sajithnsilvame/Gmail-API-with-PHP.git
    ```
 
 2. Navigate to the project directory.
 
    ```bash
-   cd your-contact-form
+   cd Gmail-API-with-PHP
    ```
 
 3. Use Composer to install the required dependencies (PHPMailer and Dotenv).
