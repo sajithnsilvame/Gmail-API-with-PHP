@@ -73,7 +73,7 @@ If you encounter any issues or errors while using the contact form, refer to the
 
 ## Author
 
-- **Sajith N Silva** [Your Website (optional)](https://sajithnsilvame.github.io/portfolio/)
+- [**Sajith N Silva**](https://sajithnsilvame.github.io/portfolio/)
 
 ## License
 
